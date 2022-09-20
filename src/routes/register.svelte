@@ -3,7 +3,7 @@
 	import { page } from '$app/stores';
 	import { userId, familyId } from '../store';
 
-	let src = '/images/owl-logo.png';
+	let src = 'images/owl-logo.png';
 
 	let isInvitedUser: boolean = false;
 	let isNewUser: boolean = false;

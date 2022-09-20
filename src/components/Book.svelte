@@ -6,7 +6,7 @@
 
 	export let bookId: string;
 
-	let src = '../images/book.png';
+	let src = '/images/book.png';
 
 	interface Chapter {
 		chapter_src: string;

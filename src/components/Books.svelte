@@ -3,7 +3,6 @@
 	import { page } from '$app/stores';
 	import { fetchUserById, fetchStories } from '../utils/api-request';
 	import { familyId } from '../store';
-	import Book from './Book.svelte';
 
 	interface Chapter {
 		chapter_src: string;

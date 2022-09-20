@@ -2,7 +2,7 @@ import { createUserWithEmailAndPassword, type UserCredential } from 'firebase/au
 import { auth } from './admin';
 import axios from 'axios';
 
-const apiCall = axios.create({ baseURL: 'http://127.0.0.1:5000' });
+const apiCall = axios.create({ baseURL: 'https://be-read-me-a-story.herokuapp.com/' });
 
 export const fetchStories = (familyId: string) => {
 	return apiCall.get(`/stories/${familyId}`).then((res) => {

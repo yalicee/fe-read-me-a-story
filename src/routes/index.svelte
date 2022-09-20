@@ -4,8 +4,8 @@
 	import { page } from '$app/stores';
 	import LoginHeader from '../components/LoginHeader.svelte';
 
-	let microphoneSrc = '/images/microphone.png';
-	let storySrc = '/images/book.png';
+	let microphoneSrc = 'images/microphone.png';
+	let storySrc = 'images/book.png';
 
 	let loggedIn: boolean = false;
 </script>

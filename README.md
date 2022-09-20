@@ -4,7 +4,7 @@ Read Me A Story is an app that allows family members to record, upload and playb
 
 A parent can sign up to the app, create a family group and invite their partner or relatives to join. Family members can then choose to record and upload stories, or view a list of stories created by the family. Stories can be selected from the list and played back to the child.
 
-To find out more about the project watch the [product demonstration](#), visit the [live app](#) or take a look at the accompanying [API respository](https://github.com/yangalexyangg/be-read-me-a-story/).
+To find out more about the project watch the [product demonstration](#), visit the [live app](https://read-me-a-story.netlify.app) or take a look at the accompanying [API respository](https://github.com/yangalexyangg/be-read-me-a-story/).
 
 ## Installation
 

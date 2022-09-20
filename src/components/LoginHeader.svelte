@@ -1,5 +1,5 @@
 <script lang="ts">
-	let src: string = 'images/owl-logo.png';
+	let src: string = '/images/owl-logo.png';
 </script>
 
 <h1 class="mt-24 text-center font-Amatic text-7xl text-amber-100">Read Me A Story</h1>

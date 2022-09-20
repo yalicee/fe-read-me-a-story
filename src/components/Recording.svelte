@@ -9,7 +9,7 @@
 	let isRecording: boolean = false;
 	let isRecordingStopped: boolean = false;
 
-	let microphoneSrc = '/images/microphone.png';
+	let microphoneSrc = 'images/microphone.png';
 
 	onMount(async () => {
 		const stream: MediaStream = await navigator.mediaDevices.getUserMedia({ audio: true });
